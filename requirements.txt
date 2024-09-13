@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+python-dateutil
+streamlit_antd_components
+sqlalchemy
+pyodbc
